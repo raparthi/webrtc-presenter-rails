@@ -1,4 +1,6 @@
-/*
+/
+
+*
  * This is a manifest file that'll be compiled into application.css, which will include all the files
  * listed below.
  *
@@ -30,4 +32,9 @@
     height: 50px;
     background-position: 0 0;
   }
+}
+
+#comments {
+  max-height: 500px;
+  overflow: auto;
 }

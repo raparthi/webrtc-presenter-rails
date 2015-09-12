@@ -28,7 +28,7 @@ gem 'faye-rails', '~> 2.0'
 gem 'thin'
 
 gem 'bootstrap-sass'
-
+gem 'jquery-turbolinks'
 #gem 'bourbon'
 # Use ActiveModel has_secure_password
 # gem 'bcrypt', '~> 3.1.7'
